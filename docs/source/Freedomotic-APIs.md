@@ -15,7 +15,7 @@ When developers need to interface directly to the message broker (NOT NECESSARY 
 
 ##Stomp - message broker connector
 
-STOMP (Streaming Text Oriented Messaging Protocol): Download from here the STOMP client for your preferred language http://stomp.github.com//implementations.html. Freedomotic has a STOMP endpoint active on IP: 0.0.0.0 PORT:61666
+STOMP (Streaming Text Oriented Messaging Protocol): Download the STOMP client for your preferred language located here: http://stomp.github.com//implementations.html. Freedomotic has a STOMP endpoint active on IP: 0.0.0.0 PORT:61666
 
 ##Websockets - message broker connector
 
